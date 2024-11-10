@@ -1,4 +1,4 @@
-/* eslint-disable no-unused-vars */
+
 import { insertTask, selectAllTasks } from "../models/Task.js";
 import { emptyOrRows } from "../helper/utils.js";
 
